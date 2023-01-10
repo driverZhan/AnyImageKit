@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/9/16.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"ORIGINAL_IMAGE" = "Imagine originală";
+"SELECT_PHOTO" = "Selectați fotografia";
+"UNSELECT_PHOTO" = "Deselectați fotografia";
+"TAKE_PHOTO" = "Fă o fotografie";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "Selectați maximum %zd fotografii";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "Selectați maximum %zd videoclipuri";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "Selectați maximum %zd fotografii sau videoclipuri";
+"DOWNLOADING_FROM_ICLOUD" = "Se descarcă de pe iCloud";
+"FETCH_FAILED_PLEASE_RETRY" = "Preluare a eșuat, vă rugăm să reîncercați";
+"A11Y_SWITCH_ALBUM_TIPS" = "Schimbați albumul, albumul curent este %@";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "Nu se pot prelua toate fotografiile\nFaceți clic pentru a selecta mai multe fotografii";
+
+// Regula de verificare a dezactivării activelor
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "Durata videoclipului selectat ar trebui să fie între %d-%d secunde.";
+"CANNOT_SELECT_PHOTOS_AND_VIDEOS_AT_SAME_TIME" = "Nu se pot selecta fotografii și videoclipuri în același timp.";
+
+
+//罗马尼亚语

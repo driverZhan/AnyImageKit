@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/9/16.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"ORIGINAL_IMAGE" = "Αρχική εικόνα";
+"SELECT_PHOTO" = "Επιλογή φωτογραφίας";
+"UNSELECT_PHOTO" = "Αποεπιλογή φωτογραφίας";
+"TAKE_PHOTO" = "Λήψη φωτογραφίας";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "Επιλέξτε το πολύ %zd φωτογραφίες";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "Επιλέξτε το μέγιστο %zd βίντεο";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "Επιλέξτε έως %zd φωτογραφίες ή βίντεο";
+"DOWNLOADING_FROM_ICLOUD" = "Λήψη από το iCloud";
+"FETCH_FAILED_PLEASE_RETRY" = "Η ανάκτηση απέτυχε, δοκιμάστε ξανά";
+"A11Y_SWITCH_ALBUM_TIPS" = "Αλλαγή άλμπουμ, το τρέχον άλμπουμ είναι %@";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "Δεν είναι δυνατή η ανάκτηση όλων των φωτογραφιών\nΚάντε κλικ για να επιλέξετε περισσότερες φωτογραφίες";
+
+// Κανόνας ελέγχου απενεργοποίησης στοιχείων
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "Η διάρκεια του επιλεγμένου βίντεο πρέπει να είναι μεταξύ %d-%d δευτερολέπτων.";
+"CANNOT_SELECT_PHOTOS_AND_VIDEOS_AT_SAME_TIME" = "Δεν είναι δυνατή η ταυτόχρονη επιλογή φωτογραφιών και βίντεο.";
+
+// 希腊语

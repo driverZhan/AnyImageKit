@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/9/16.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"ORIGINAL_IMAGE" = "Původní obrázek";
+"SELECT_PHOTO" = "Vybrat fotografii";
+"UNSELECT_PHOTO" = "Zrušit výběr fotografie";
+"TAKE_PHOTO" = "Vyfotit";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "Vyberte maximálně %zd fotografií";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "Vyberte maximálně %zd videí";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "Vyberte maximálně %zd fotografií nebo videí";
+"DOWNLOADING_FROM_ICLOUD" = "Stahování z iCloud";
+"FETCH_FAILED_PLEASE_RETRY" = "Načítání se nezdařilo, zkuste to prosím znovu";
+"A11Y_SWITCH_ALBUM_TIPS" = "Přepnout album, aktuální album je %@";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "Nelze načíst všechny fotografie\nKliknutím vyberte další fotografie";
+
+// Pravidlo kontroly deaktivace aktiv
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "Doba trvání vybraného videa by měla být mezi %d-%d sekundami.";
+"CANNOT_SELECT_PHOTOS_AND_VIDEOS_AT_SAME_TIME" = "Nelze vybrat fotografie a videa současně.";
+
+
+///捷克语

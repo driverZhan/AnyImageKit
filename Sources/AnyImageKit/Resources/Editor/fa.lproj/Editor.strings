@@ -1,0 +1,19 @@
+/* 
+  Editor.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/11/12.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"BRUSH" = "قلم مو";
+"CROP" = "برش";
+"MOSAIC" = "موزاییک";
+"INPUT_TEXT" = "متن ورودی";
+
+"FREE" = "رایگان";
+
+"DRAG_HERE_TO_REMOVE" = "برای حذف اینجا را بکشید";
+"RELEASE_TO_REMOVE" = "برای حذف رها کنید";
+
+//波斯语

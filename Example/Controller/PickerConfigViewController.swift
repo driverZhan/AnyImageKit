@@ -17,6 +17,8 @@ final class PickerConfigViewController: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        LanguageHelper.shared.customEnabled = true
+        LanguageHelper.shared.setLanguage("ja")
         setupNavigation()
         setupView()
     }
@@ -290,6 +292,25 @@ extension PickerConfigViewController {
         present(alert, animated: true, completion: nil)
     }
     
+    private func customLanguageOptioinsTapped(_ indexPath: IndexPath) {
+        let alert = UIAlertController(title: "Custom Language", message: nil, preferredStyle: .alert)
+        let languages = AnyLanguage.allCases;
+        alert.addAction(UIAlertAction(title: "None", style: .default, handler: { [weak self] (action) in
+            LanguageHelper.shared.customEnabled = false
+            (self?.tableView.cellForRow(at: indexPath) as? ConfigCell)?.contentLabel.text = "None"
+        }))
+        for language in languages {
+            alert.addAction(UIAlertAction(title: language.title, style: .default, handler: { [weak self] (action) in
+                LanguageHelper.shared.customEnabled = true
+                LanguageHelper.shared.language = language
+                (self?.tableView.cellForRow(at: indexPath) as? ConfigCell)?.contentLabel.text = language.title
+            }))
+        }
+        
+        alert.addAction(UIAlertAction(title: "Cancel", style: .cancel, handler: nil))
+        present(alert, animated: true, completion: nil)
+    }
+    
     // MARK: - Other Config
     
     private func fullScreenTapped(_ indexPath: IndexPath) {
@@ -345,6 +366,7 @@ extension PickerConfigViewController {
         case albumOptions
         case selectOptions
         case orderByDate
+        case customLanguage
         
         var title: String {
             switch self {
@@ -364,6 +386,8 @@ extension PickerConfigViewController {
                 return "SelectOptions"
             case .orderByDate:
                 return "OrderByDate"
+            case .customLanguage:
+                return "CustomLanguage"
             }
         }
         
@@ -385,6 +409,8 @@ extension PickerConfigViewController {
                 return ".selectOptions"
             case .orderByDate:
                 return ".orderByDate"
+            case .customLanguage:
+                return ".customLanguage"
             }
         }
         
@@ -406,6 +432,8 @@ extension PickerConfigViewController {
                 return "Photo"
             case .orderByDate:
                 return "ASC"
+            case .customLanguage:
+                return "None"
             }
         }
 
@@ -428,6 +456,8 @@ extension PickerConfigViewController {
                 return controller.selectOptionsTapped
             case .orderByDate:
                 return controller.orderbyDateTapped
+            case .customLanguage:
+                return controller.customLanguageOptioinsTapped
             }
         }
     }

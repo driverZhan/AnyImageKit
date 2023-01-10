@@ -1,0 +1,15 @@
+/* 
+  Capture.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"SWITCH_TO_FRONT_CAMERA" = "अगाडिको क्यामेरामा स्विच गर्नुहोस्";
+"SWITCH_TO_BACK_CAMERA" = "पछाडि क्यामेरामा स्विच गर्नुहोस्";
+"TAP_FOR_PHOTO" = "फोटोको लागि ट्याप गर्नुहोस्";
+"HOLD_FOR_VIDEO" = "भिडियोको लागि होल्ड गर्नुहोस्";
+"HOLD_FOR_VIDEO_TAP_FOR_PHOTO" = "भिडियोको लागि होल्ड गर्नुहोस्, फोटोको लागि ट्याप गर्नुहोस्";
+
+//尼泊尔语

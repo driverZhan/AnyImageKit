@@ -1,0 +1,16 @@
+/* 
+  Capture.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"SWITCH_TO_FRONT_CAMERA" = "전면 카메라로 전환";
+"SWITCH_TO_BACK_CAMERA" = "후면 카메라로 전환";
+"TAP_FOR_PHOTO" = "사진을 보려면 누르세요";
+"HOLD_FOR_VIDEO" = "동영상을 보려면 길게 누르세요";
+"HOLD_FOR_VIDEO_TAP_FOR_PHOTO" = "동영상을 보려면 길게 누르고 사진을 보려면 탭하세요.";
+
+
+///  韩语

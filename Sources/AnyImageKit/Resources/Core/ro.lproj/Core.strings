@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"OK" = "OK";
+"BACK" = "Înapoi";
+"DONE" = "Terminat";
+"EDIT" = "Editare";
+"ALERT" = "Alerta";
+"CANCEL" = "Anulare";
+"PREVIEW" = "Previzualizare";
+"PHOTOS" = "Fotografii";
+"CAMERA" = "Camera";
+"MICROPHONE" = "Microfon";
+"SETTINGS" = "Setari";
+
+"PHOTO" = "Fotografie";
+"VIDEO" = "Video";
+"LIVE_PHOTO" = "LIVE";
+"LOADING" = "Încărcare";
+
+"UNDO" = "Anulare";
+"PLAY" = "Joacă";
+"PAUSE" = "Pauză";
+"RESET" = "Resetare";
+"DOWNLOADING" = "Se descarcă";
+
+"GO_TO_SETTINGS" = "Accesați Setări";
+"PERMISSION_IS_DISABLED" = "%@ este dezactivat";
+"NO_PHOTOS_PERMISSION_TIPS" = "Permiteți %@ să vă acceseze albumul în \"Setări > Confidențialitate > Fotografii\"";
+"NO_CAMERA_PERMISSION_TIPS" = "Permiteți %@ să vă acceseze camera în \"Setări > Confidențialitate > Cameră\"";
+"NO_MICROPHONE_PERMISSION_TIPS" = "Permiteți %@ să vă acceseze microfonul în \"Setări > Confidențialitate > Microfon\"";
+
+
+//罗马尼亚语

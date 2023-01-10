@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"OK" = "OK";
+"BACK" = "Orqaga";
+"DONE" = "Bajarildi";
+"EDIT" = "Tahrirlash";
+"ALERT" = "Ogohlantirish";
+"CANCEL" = "Bekor qilish";
+"PREVIEW" = "Ko'rib chiqish";
+"PHOTOS" = "Rasmlar";
+"CAMERA" = "Kamera";
+"MICROPHONE" = "Mikrofon";
+"SETTINGS" = "Sozlamalar";
+
+"PHOTO" = "Foto";
+"VIDEO" = "Video";
+"LIVE_PHOTO" = "JONLI";
+"LOADING" = "Yuklanmoqda";
+
+"UNDO" = "Bekor qilish";
+"PLAY" = "O'yin";
+"PAUSE" = "Pauza";
+"RESET" = "Qayta tiklash";
+"DOWNLOADING" = "Yuklab olish";
+
+"GO_TO_SETTINGS" = "Sozlamalarga o‘tish";
+"PERMISSION_IS_DISABLED" = "%@ o'chirilgan";
+"NO_PHOTOS_PERMISSION_TIPS" = "%@ ga \"Sozlamalar > Maxfiylik > Rasmlar\" orqali albomingizga kirishga ruxsat bering";
+"NO_CAMERA_PERMISSION_TIPS" = "%@ga \"Sozlamalar > Maxfiylik > Kamera\" orqali kamerangizga kirishiga ruxsat bering";
+"NO_MICROPHONE_PERMISSION_TIPS" = "%@ ga \"Sozlamalar > Maxfiylik > Mikrofon\" orqali mikrofoningizga kirishga ruxsat bering";
+
+///乌兹别克语

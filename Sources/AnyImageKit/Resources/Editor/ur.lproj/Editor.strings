@@ -1,0 +1,19 @@
+/* 
+  Editor.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/11/12.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"BRUSH" = "برش";
+"CROP" = "فصل";
+"MOSAIC" = "موزیک";
+"INPUT_TEXT" = "متن داخل کریں۔";
+
+"FREE" = "Free";
+
+"DRAG_HERE_TO_REMOVE" = "ہٹانے کے لیے یہاں گھسیٹیں۔";
+"RELEASE_TO_REMOVE" = "ہٹانے کے لیے ریلیز کریں۔";
+
+//乌尔都语

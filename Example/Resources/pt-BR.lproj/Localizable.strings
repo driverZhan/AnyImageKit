@@ -20,6 +20,7 @@
 "EditorOptions" = "Opções do Editor";
 "CaptureOptions" = "Opções de Captura";
 "FullScreen" = "Tela Cheia";
+"CustomLanguage" = "Idioma personalizado";
 
 // Editor
 "OpenEditor" = "Abrir Editor";

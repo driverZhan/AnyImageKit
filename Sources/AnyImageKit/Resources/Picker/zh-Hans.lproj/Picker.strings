@@ -21,3 +21,5 @@
 // Asset Disable Check Rule
 "DURATION_OF_SELECTED_VIDEO_RANGE" = "选取视频长度应在 %d-%d 秒之间";
 "CANNOT_SELECT_PHOTOS_AND_VIDEOS_AT_SAME_TIME" = "不能同时选择图片和视频";
+
+/// 简体中文

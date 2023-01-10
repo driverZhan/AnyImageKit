@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/9/16.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"ORIGINAL_IMAGE" = "Imej asal";
+"SELECT_PHOTO" = "Pilih foto";
+"UNSELECT_PHOTO" = "Nyahpilih foto";
+"TAKE_PHOTO" = "Ambil foto";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "Pilih maksimum %zd foto";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "Pilih maksimum %zd video";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "Pilih maksimum %zd foto atau video";
+"DOWNLOADING_FROM_ICLOUD" = "Memuat turun daripada iCloud";
+"FETCH_FAILED_PLEASE_RETRY" = "Pengambilan gagal, sila cuba semula";
+"A11Y_SWITCH_ALBUM_TIPS" = "Tukar album, album semasa ialah %@";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "Tidak dapat mengambil semua foto\nKlik untuk memilih lebih banyak foto";
+
+// Peraturan Semakan Lumpuh Aset
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "Tempoh video yang dipilih hendaklah antara %d-%d saat.";
+"CANNOT_SELECT_PHOTOS_AND_VIDEOS_AT_SAME_TIME" = "Tidak boleh memilih foto dan video pada masa yang sama.";
+
+// 马来语

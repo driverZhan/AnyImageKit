@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"OK" = "OK";
+"BACK" = "Zadní";
+"DONE" = "Hotovo";
+"EDIT" = "Upravit";
+"ALERT" = "Upozornění";
+"CANCEL" = "zrušení";
+"PREVIEW" = "Náhled";
+"PHOTOS" = "Fotky";
+"CAMERA" = "Fotoaparát";
+"MICROPHONE" = "Mikrofon";
+"SETTINGS" = "Nastavení";
+
+"PHOTO" = "Fotografie";
+"VIDEO" = "Video";
+"LIVE_PHOTO" = "ŽÍT";
+"LOADING" = "načítání";
+
+"UNDO" = "vrátit";
+"PLAY" = "Hrát si";
+"PAUSE" = "Pauza";
+"RESET" = "Resetovat";
+"DOWNLOADING" = "Stahování";
+
+"GO_TO_SETTINGS" = "Jdi do nastavení";
+"PERMISSION_IS_DISABLED" = "%@ je zakázáno";
+"NO_PHOTOS_PERMISSION_TIPS" = "Povolte %@ přístup k vašemu albu v \"Nastavení > Soukromí > Fotky\"";
+"NO_CAMERA_PERMISSION_TIPS" = "Povolte %@ přístup ke kameře v \"Nastavení > Soukromí > Fotoaparát\"";
+"NO_MICROPHONE_PERMISSION_TIPS" = "Povolte %@ přístup k mikrofonu v \"Nastavení > Soukromí > Mikrofon\"";
+
+///捷克语

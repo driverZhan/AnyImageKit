@@ -1,0 +1,15 @@
+/* 
+  Capture.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"SWITCH_TO_FRONT_CAMERA" = "Old kameraga o'tish";
+"SWITCH_TO_BACK_CAMERA" = "Orqa kameraga o‘tish";
+"TAP_FOR_PHOTO" = "Surat uchun teging";
+"HOLD_FOR_VIDEO" = "Video uchun ushlab turing";
+"HOLD_FOR_VIDEO_TAP_FOR_PHOTO" = "Video uchun ushlab turing, rasm uchun bosing";
+
+///乌兹别克语

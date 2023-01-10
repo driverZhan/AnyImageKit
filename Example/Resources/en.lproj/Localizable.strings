@@ -20,6 +20,7 @@
 "EditorOptions" = "Editor Options";
 "CaptureOptions" = "Capture Options";
 "FullScreen" = "Full Screen";
+"CustomLanguage" = "Custom Language";
 
 // Editor
 "OpenEditor" = "Open Editor";

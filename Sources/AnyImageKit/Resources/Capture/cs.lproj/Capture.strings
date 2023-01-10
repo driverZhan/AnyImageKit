@@ -1,0 +1,16 @@
+/* 
+  Capture.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"SWITCH_TO_FRONT_CAMERA" = "Přepnout na přední kameru";
+"SWITCH_TO_BACK_CAMERA" = "Přepnout na zadní kameru";
+"TAP_FOR_PHOTO" = "Klepnutím zobrazíte fotografii";
+"HOLD_FOR_VIDEO" = "Pozastavit pro video";
+"HOLD_FOR_VIDEO_TAP_FOR_PHOTO" = "Podržením pro video, klepnutím pro fotografii";
+
+
+///捷克语

@@ -1,0 +1,15 @@
+/* 
+  Capture.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"SWITCH_TO_FRONT_CAMERA" = "সামনের ক্যামেরায় স্যুইচ করুন";
+"SWITCH_TO_BACK_CAMERA" = "ব্যাক ক্যামেরাতে স্যুইচ করুন";
+"TAP_FOR_PHOTO" = "ছবির জন্য আলতো চাপুন";
+"HOLD_FOR_VIDEO" = "ভিডিওর জন্য হোল্ড করুন";
+"HOLD_FOR_VIDEO_TAP_FOR_PHOTO" = "ভিডিওর জন্য হোল্ড করুন, ছবির জন্য আলতো চাপুন";
+
+/// 孟加拉语

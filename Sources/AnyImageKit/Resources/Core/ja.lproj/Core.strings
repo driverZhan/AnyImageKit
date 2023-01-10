@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"OK" = "OK";
+"BACK" = "戻る";
+"DONE" = "終わり";
+"EDIT" = "編集";
+"ALERT" = "アラート";
+"CANCEL" = "キャンセル";
+"PREVIEW" = "プレビュー";
+"PHOTOS" = "写真";
+"CAMERA" = "カメラ";
+"MICROPHONE" = "マイクロフォン";
+"SETTINGS" = "設定";
+
+"PHOTO" = "写真";
+"VIDEO" = "ビデオ";
+"LIVE_PHOTO" = "ライブ";
+"LOADING" = "Loading";
+
+"UNDO" = "元に戻す";
+"PLAY" = "Play";
+"PAUSE" = "Pause";
+"RESET" = "リセット";
+"DOWNLOADING" = "ダウンロード中";
+
+"GO_TO_SETTINGS" = "設定に移動";
+"PERMISSION_IS_DISABLED" = "%@ は無効です";
+"NO_PHOTOS_PERMISSION_TIPS" = "\"設定 > プライバシー > 写真\" で %@ にアルバムへのアクセスを許可";
+"NO_CAMERA_PERMISSION_TIPS" = "\"設定 > プライバシー > カメラ\" で %@ にカメラへのアクセスを許可";
+"NO_MICROPHONE_PERMISSION_TIPS" = "\"設定 > プライバシー > マイク\" で %@ にマイクへのアクセスを許可";
+
+
+///日语

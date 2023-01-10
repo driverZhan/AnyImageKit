@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"OK" = "ΟΚ";
+"BACK" = "Πίσω";
+"DONE" = "Τέλος";
+"EDIT" = "Επεξεργασία";
+"ALERT" = "Ειδοποίηση";
+"CANCEL" = "Ακύρωση";
+"PREVIEW" = "Προεπισκόπηση";
+"PHOTOS" = "Φωτογραφίες";
+"CAMERA" = "Κάμερα";
+"MICROPHONE" = "Μικρόφωνο";
+"SETTINGS" = "Ρυθμίσεις";
+
+"PHOTO" = "Φωτογραφία";
+"VIDEO" = "Βίντεο";
+"LIVE_PHOTO" = "LIVE";
+"LOADING" = "Φόρτωση";
+
+"UNDO" = "Αναίρεση";
+"PLAY" = "Παίξτε";
+"PAUSE" = "Παύση";
+"RESET" = "Επαναφορά";
+"DOWNLOADING" = "Λήψη";
+
+"GO_TO_SETTINGS" = "Μετάβαση στις Ρυθμίσεις";
+"PERMISSION_IS_DISABLED" = "Το %@ είναι απενεργοποιημένο";
+"NO_PHOTOS_PERMISSION_TIPS" = "Να επιτρέπεται στον %@ να έχει πρόσβαση στο λεύκωμά σας στις \"Ρυθμίσεις > Απόρρητο > Φωτογραφίες\"";
+"NO_CAMERA_PERMISSION_TIPS" = "Επιτρέψτε στο %@ να έχει πρόσβαση στην κάμερά σας στις \"Ρυθμίσεις > Απόρρητο > Κάμερα\"";
+"NO_MICROPHONE_PERMISSION_TIPS" = "Επιτρέψτε στο %@ να έχει πρόσβαση στο μικρόφωνό σας στις \"Ρυθμίσεις > Απόρρητο > Μικρόφωνο\"";
+
+// 希腊语

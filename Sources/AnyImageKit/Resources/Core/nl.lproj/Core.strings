@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"OK" = "OKÉ";
+"BACK" = "Rug";
+"DONE" = "Gedaan";
+"EDIT" = "Bewerk";
+"ALERT" = "Alarm";
+"CANCEL" = "Annuleren";
+"PREVIEW" = "Voorbeeld";
+"PHOTOS" = "Foto's";
+"CAMERA" = "Camera";
+"MICROPHONE" = "Microfoon";
+"SETTINGS" = "Instellingen";
+
+"PHOTO" = "Foto";
+"VIDEO" = "Video";
+"LIVE_PHOTO" = "LIVE";
+"LOADING" = "Bezig met laden";
+
+"UNDO" = "Ongedaan maken";
+"PLAY" = "Toneelstuk";
+"PAUSE" = "Pauze";
+"RESET" = "Resetten";
+"DOWNLOADING" = "downloaden";
+
+"GO_TO_SETTINGS" = "Ga naar Instellingen";
+"PERMISSION_IS_DISABLED" = "%@ is gehandicapt";
+"NO_PHOTOS_PERMISSION_TIPS" = "Geef %@ toegang tot je album in \"Instellingen > Privacy > Foto's\"";
+"NO_CAMERA_PERMISSION_TIPS" = "Geef %@ toegang tot uw camera in \"Instellingen > Privacy > Camera\"";
+"NO_MICROPHONE_PERMISSION_TIPS" = "Geef %@ toegang tot je microfoon in \"Instellingen > Privacy > Microfoon\"";
+
+/// 荷兰语

@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"OK" = "ঠিক আছে";
+"BACK" = "পিছনে";
+"DONE" = "সম্পন্ন";
+"EDIT" = "সম্পাদনা করুন";
+"ALERT" = "সতর্কতা";
+"CANCEL" = "বাতিল করুন";
+"PREVIEW" = "প্রিভিউ";
+"PHOTOS" = "ফটো";
+"CAMERA" = "ক্যামেরা";
+"MICROPHONE" = "মাইক্রোফোন";
+"SETTINGS" = "সেটিংস";
+
+"PHOTO" = "ফটো";
+"VIDEO" = "ভিডিও";
+"LIVE_PHOTO" = "লাইভ";
+"LOADING" = "লোড হচ্ছে";
+
+"UNDO" = "পূর্বাবস্থায় ফিরুন";
+"PLAY" = "খেলুন";
+"PAUSE" = "পজ";
+"RESET" = "রিসেট";
+"DOWNLOADING" = "ডাউনলোড হচ্ছে";
+
+"GO_TO_SETTINGS" = "সেটিংসে যান";
+"PERMISSION_IS_DISABLED" = "%@ is disabled";
+"NO_PHOTOS_PERMISSION_TIPS" = "Allow %@ to access your album in \"Settings > Privacy > Photos\"";
+"NO_CAMERA_PERMISSION_TIPS" = "Allow %@ to access your camera in \"Settings > Privacy > Camera\"";
+"NO_MICROPHONE_PERMISSION_TIPS" = "Allow %@ to access your microphone in \"Settings > Privacy > Microphone\"";
+
+/// 孟加拉语

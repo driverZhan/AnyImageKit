@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/9/16.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"ORIGINAL_IMAGE" = "Исходное изображение";
+"SELECT_PHOTO" = "Выберите фото";
+"UNSELECT_PHOTO" = "Отменить выбор фото";
+"TAKE_PHOTO" = "Сделать фото";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "Выберите не более %zd фотографий";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "Выберите не более %zd видео";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "Выберите не более %zd фото или видео";
+"DOWNLOADING_FROM_ICLOUD" = "Загрузка из iCloud";
+"FETCH_FAILED_PLEASE_RETRY" = "Не удалось получить, повторите попытку";
+"A11Y_SWITCH_ALBUM_TIPS" = "Переключить альбом, текущий альбом %@";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "Не удается загрузить все фотографии\nНажмите, чтобы выбрать другие фотографии";
+
+// Правило проверки отключения актива
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "Продолжительность выбранного видео должна быть в пределах %d-%d секунд.";
+"CANNOT_SELECT_PHOTOS_AND_VIDEOS_AT_SAME_TIME" = "Невозможно выбрать фото и видео одновременно.";
+
+
+//俄语

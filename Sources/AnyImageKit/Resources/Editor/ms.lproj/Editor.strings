@@ -1,0 +1,19 @@
+/* 
+  Editor.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/11/12.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"BRUSH" = "Berus";
+"CROP" = "Potong";
+"MOSAIC" = "Mozek";
+"INPUT_TEXT" = "Input teks";
+
+"FREE" = "Percuma";
+
+"DRAG_HERE_TO_REMOVE" = "Seret ke sini untuk mengalih keluar";
+"RELEASE_TO_REMOVE" = "Lepaskan untuk mengalih keluar";
+
+//马来语

@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"OK" = "okey";
+"BACK" = "belakang";
+"DONE" = "Selesai";
+"EDIT" = "Sunting";
+"ALERT" = "Amaran";
+"CANCEL" = "Batal";
+"PREVIEW" = "Preview";
+"PHOTOS" = "Foto";
+"CAMERA" = "Kamera";
+"MICROPHONE" = "Mikrofon";
+"SETTINGS" = "tetapan";
+
+"PHOTO" = "Foto";
+"VIDEO" = "Video";
+"LIVE_PHOTO" = "LIVE";
+"LOADING" = "Memuatkan";
+
+"UNDO" = "Buat asal";
+"PLAY" = "Main";
+"PAUSE" = "jeda";
+"RESET" = "Tetapkan semula";
+"DOWNLOADING" = "Memuat turun";
+
+"GO_TO_SETTINGS" = "Pergi ke Tetapan";
+"PERMISSION_IS_DISABLED" = "%@ dilumpuhkan";
+"NO_PHOTOS_PERMISSION_TIPS" = "Benarkan %@ mengakses album anda dalam \"Tetapan > Privasi > Foto\"";
+"NO_CAMERA_PERMISSION_TIPS" = "Benarkan %@ mengakses kamera anda dalam \"Tetapan > Privasi > Kamera\"";
+"NO_MICROPHONE_PERMISSION_TIPS" = "Benarkan %@ mengakses mikrofon anda dalam \"Tetapan > Privasi > Mikrofon\"";
+
+// 马来语

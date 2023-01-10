@@ -1,0 +1,19 @@
+/* 
+  Editor.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/11/12.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"BRUSH" = "Borste";
+"CROP" = "Beskär";
+"MOSAIC" = "Mosaik";
+"INPUT_TEXT" = "Inmatning av text";
+
+"FREE" = "Gratis";
+
+"DRAG_HERE_TO_REMOVE" = "Dra hit för att ta bort";
+"RELEASE_TO_REMOVE" = "Släpp att ta bort";
+
+// 瑞典语

@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"OK" = "ठिक छ";
+"BACK" = "पछाडि";
+"DONE" = "सकियो";
+"EDIT" = "सम्पादन गर्नुहोस्";
+"ALERT" = "अलर्ट";
+"CANCEL" = "रद्द गर्नुहोस्";
+"PREVIEW" = "पूर्वावलोकन";
+"PHOTOS" = "फोटोहरू";
+"CAMERA" = "क्यामेरा";
+"MICROPHONE" = "माइक्रोफोन";
+"SETTINGS" = "सेटिङहरू";
+
+"PHOTO" = "फोटो";
+"VIDEO" = "भिडियो";
+"LIVE_PHOTO" = "लाइभ";
+"LOADING" = "लोड गर्दै";
+
+"UNDO" = "पूर्ववत गर्नुहोस्";
+"PLAY" = "खेल्नु";
+"PAUSE" = "रोक्नुहोस्";
+"RESET" = "रिसेट गर्नुहोस्";
+"DOWNLOADING" = "डाउनलोड गर्दै";
+
+"GO_TO_SETTINGS" = "सेटिङहरूमा जानुहोस्";
+"PERMISSION_IS_DISABLED" = "%@ असक्षम छ";
+"NO_PHOTOS_PERMISSION_TIPS" = "%@ लाई \"सेटिङहरू > गोपनीयता > फोटोहरू\" मा तपाईंको एल्बम पहुँच गर्न अनुमति दिनुहोस्";
+"NO_CAMERA_PERMISSION_TIPS" = "%@ लाई \"सेटिङहरू > गोपनीयता > क्यामेरा\" मा गई तपाईंको क्यामेरा पहुँच गर्न अनुमति दिनुहोस्";
+"NO_MICROPHONE_PERMISSION_TIPS" = "%@ लाई \"सेटिङहरू > गोपनीयता > माइक्रोफोन\" मा तपाईंको माइक्रोफोन पहुँच गर्न अनुमति दिनुहोस्";
+
+//尼泊尔语

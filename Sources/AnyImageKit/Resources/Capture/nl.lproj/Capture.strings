@@ -1,0 +1,16 @@
+/* 
+  Capture.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"SWITCH_TO_FRONT_CAMERA" = "Overschakelen naar camera aan voorzijde";
+"SWITCH_TO_BACK_CAMERA" = "Overschakelen naar achteruitrijcamera";
+"TAP_FOR_PHOTO" = "Tik voor foto";
+"HOLD_FOR_VIDEO" = "Vasthouden voor video";
+"HOLD_FOR_VIDEO_TAP_FOR_PHOTO" = "Vasthouden voor video, tikken voor foto";
+
+
+/// 荷兰语

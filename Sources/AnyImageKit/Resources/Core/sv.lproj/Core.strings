@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"OK" = "OK";
+"BACK" = "Tillbaka";
+"DONE" = "Klart";
+"EDIT" = "Redigera";
+"ALERT" = "Varning";
+"CANCEL" = "Avbryt";
+"PREVIEW" = "Förhandsgranskning";
+"PHOTOS" = "Foton";
+"CAMERA" = "Kamera";
+"MICROPHONE" = "Mikrofon";
+"SETTINGS" = "Inställningar";
+
+"PHOTO" = "Foto";
+"VIDEO" = "Video";
+"LIVE_PHOTO" = "LIVE";
+"LOADING" = "Laddar";
+
+"UNDO" = "Ångra";
+"PLAY" = "Spela";
+"PAUSE" = "Paus";
+"RESET" = "Återställ";
+"DOWNLOADING" = "Hämtar";
+
+"GO_TO_SETTINGS" = "Gå till Inställningar";
+"PERMISSION_IS_DISABLED" = "%@ är inaktiverad";
+"NO_PHOTOS_PERMISSION_TIPS" = "Tillåt %@ att komma åt ditt album i \"Inställningar > Sekretess > Foton\"";
+"NO_CAMERA_PERMISSION_TIPS" = "Tillåt %@ att komma åt din kamera i \"Inställningar > Sekretess > Kamera\"";
+"NO_MICROPHONE_PERMISSION_TIPS" = "Tillåt %@ att komma åt din mikrofon i \"Inställningar > Sekretess > Mikrofon\"";
+
+// 瑞典语

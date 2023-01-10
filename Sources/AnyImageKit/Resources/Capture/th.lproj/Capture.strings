@@ -1,0 +1,15 @@
+/* 
+  Capture.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"SWITCH_TO_FRONT_CAMERA" = "สลับไปที่กล้องด้านหน้า";
+"SWITCH_TO_BACK_CAMERA" = "สลับไปที่กล้องหลัง";
+"TAP_FOR_PHOTO" = "แตะเพื่อถ่ายภาพ";
+"HOLD_FOR_VIDEO" = "รอวิดีโอ";
+"HOLD_FOR_VIDEO_TAP_FOR_PHOTO" = "กดค้างไว้เพื่อเล่นวิดีโอ แตะเพื่อถ่ายภาพ";
+
+//泰语

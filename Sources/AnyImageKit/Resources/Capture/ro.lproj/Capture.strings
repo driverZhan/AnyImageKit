@@ -1,0 +1,15 @@
+/* 
+  Capture.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"SWITCH_TO_FRONT_CAMERA" = "Comutați la camera frontală";
+"SWITCH_TO_BACK_CAMERA" = "Comutați la camera din spate";
+"TAP_FOR_PHOTO" = "Atingeți pentru fotografie";
+"HOLD_FOR_VIDEO" = "Așteptați pentru videoclip";
+"HOLD_FOR_VIDEO_TAP_FOR_PHOTO" = "Țineți apăsat pentru videoclip, atingeți pentru fotografie";
+
+//罗马尼亚语

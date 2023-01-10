@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/9/16.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"ORIGINAL_IMAGE" = "Eredeti kép";
+"SELECT_PHOTO" = "Fotó kiválasztása";
+"UNSELECT_PHOTO" = "Fénykép kijelölésének törlése";
+"TAKE_PHOTO" = "Fénykép készítése";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "Válasszon ki legfeljebb %zd fotót";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "Válasszon ki legfeljebb %zd videót";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "Válasszon ki legfeljebb %zd fotót vagy videót";
+"DOWNLOADING_FROM_ICLOUD" = "Letöltés az iCloudból";
+"FETCH_FAILED_PLEASE_RETRY" = "A lekérés sikertelen, kérjük, próbálja újra";
+"A11Y_SWITCH_ALBUM_TIPS" = "Album váltása, az aktuális album %@";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "Nem sikerült lekérni az összes fotót\nKattintson további fényképek kiválasztásához";
+
+// Asset Disable Check Rule
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "A kiválasztott videó időtartamának %d-%d másodperc között kell lennie.";
+"CANNOT_SELECT_PHOTOS_AND_VIDEOS_AT_SAME_TIME" = "Nem lehet egyszerre fényképeket és videókat kiválasztani.";
+
+/// 匈牙利语

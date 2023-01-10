@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"OK" = "ओके";
+"BACK" = "बैक";
+"DONE" = "हो गया";
+"EDIT" = "संपादित करें";
+"ALERT" = "अलर्ट";
+"CANCEL" = "रद्द करें";
+"PREVIEW" = "पूर्वावलोकन";
+"PHOTOS" = "फ़ोटो";
+"CAMERA" = "कैमरा";
+"MICROPHONE" = "माइक्रोफ़ोन";
+"SETTINGS" = "सेटिंग";
+
+"PHOTO" = "फोटो";
+"VIDEO" = "वीडियो";
+"LIVE_PHOTO" = "लाइव";
+"LOADING" = "लोड हो रहा है";
+
+"UNDO" = "पूर्ववत करें";
+"PLAY" = "प्ले";
+"PAUSE" = "रोकें";
+"RESET" = "रीसेट";
+"DOWNLOADING" = "डाउनलोड हो रहा है";
+
+"GO_TO_SETTINGS" = "सेटिंग पर जाएं";
+"PERMISSION_IS_DISABLED" = "%@ अक्षम है";
+"NO_PHOTOS_PERMISSION_TIPS" = "\"सेटिंग > गोपनीयता > फ़ोटो\" में %@ को अपने एल्बम तक पहुंचने की अनुमति दें";
+"NO_CAMERA_PERMISSION_TIPS" = "\"सेटिंग > गोपनीयता > कैमरा\" में %@ को अपना कैमरा एक्सेस करने की अनुमति दें";
+"NO_MICROPHONE_PERMISSION_TIPS" = "\"सेटिंग > गोपनीयता > माइक्रोफ़ोन\" में %@ को अपना माइक्रोफ़ोन एक्सेस करने की अनुमति दें";
+
+///印地语

@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/9/16.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"ORIGINAL_IMAGE" = "Ảnh gốc";
+"SELECT_PHOTO" = "Chọn ảnh";
+"UNSELECT_PHOTO" = "Bỏ chọn ảnh";
+"TAKE_PHOTO" = "Chụp ảnh";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "Chọn tối đa %zd ảnh";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "Chọn tối đa %zd video";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "Chọn tối đa %zd ảnh hoặc video";
+"DOWNLOADING_FROM_ICLOUD" = "Đang tải xuống từ iCloud";
+"FETCH_FAILED_PLEASE_RETRY" = "Tìm nạp không thành công, vui lòng thử lại";
+"A11Y_SWITCH_ALBUM_TIPS" = "Chuyển album, album hiện tại là %@";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "Không thể tải tất cả ảnh\nNhấp để chọn thêm ảnh";
+
+// Quy tắc kiểm tra vô hiệu hóa nội dung
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "Thời lượng của video đã chọn phải trong khoảng %d-%d giây.";
+"CANNOT_SELECT_PHOTOS_AND_VIDEOS_AT_SAME_TIME" = "Không thể chọn ảnh và video cùng lúc.";
+
+
+//越南语

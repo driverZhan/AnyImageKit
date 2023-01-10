@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"OK" = "خوب";
+"BACK" = "بازگشت";
+"DONE" = "انجام شده";
+"EDIT" = "ویرایش کنید";
+"ALERT" = "هشدار";
+"CANCEL" = "لغو کنید";
+"PREVIEW" = "پیش نمایش";
+"PHOTOS" = "عکس ها";
+"CAMERA" = "دوربین";
+"MICROPHONE" = "میکروفون";
+"SETTINGS" = "تنظیمات";
+
+"PHOTO" = "عکس";
+"VIDEO" = "ویدئو";
+"LIVE_PHOTO" = "زنده";
+"LOADING" = "بارگذاری";
+
+"UNDO" = "واگرد";
+"PLAY" = "بازی";
+"PAUSE" = "مکث کنید";
+"RESET" = "بازنشانی کنید";
+"DOWNLOADING" = "در حال دانلود";
+
+"GO_TO_SETTINGS" = "به تنظیمات بروید";
+"PERMISSION_IS_DISABLED" = "%@ غیرفعال است";
+"NO_PHOTOS_PERMISSION_TIPS" = "به %@ اجازه دهید به آلبوم شما در \"تنظیمات > حریم خصوصی > عکس‌ها\" دسترسی داشته باشد.";
+"NO_CAMERA_PERMISSION_TIPS" = "به %@ اجازه دهید به دوربین شما در \"تنظیمات > حریم خصوصی > دوربین\" دسترسی داشته باشد.";
+"NO_MICROPHONE_PERMISSION_TIPS" = "به %@ اجازه دهید به میکروفون شما در \"تنظیمات > حریم خصوصی > میکروفون\" دسترسی داشته باشد.";

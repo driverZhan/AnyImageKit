@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/9/16.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"ORIGINAL_IMAGE" = "মূল ছবি";
+"SELECT_PHOTO" = "ছবি নির্বাচন করুন";
+"UNSELECT_PHOTO" = "ছবি বাদ দিন";
+"TAKE_PHOTO" = "ছবি তুলুন";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "সর্বোচ্চ %zd ফটো নির্বাচন করুন";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "সর্বোচ্চ %zd ভিডিও নির্বাচন করুন";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "সর্বোচ্চ %zd ফটো বা ভিডিও নির্বাচন করুন";
+"DOWNLOADING_FROM_ICLOUD" = "iCloud থেকে ডাউনলোড করা হচ্ছে";
+"FETCH_FAILED_PLEASE_RETRY" = "আনয়ন ব্যর্থ হয়েছে, অনুগ্রহ করে পুনরায় চেষ্টা করুন";
+"A11Y_SWITCH_ALBUM_TIPS" = "অ্যালবাম পাল্টান, বর্তমান অ্যালবাম হল %@";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "সব ফটো আনা যাচ্ছে না\nআরো ছবি নির্বাচন করতে ক্লিক করুন";
+
+// সম্পদ নিষ্ক্রিয় চেক নিয়ম
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "নির্বাচিত ভিডিওর সময়কাল %d-%d সেকেন্ডের মধ্যে হওয়া উচিত।";
+"CANNOT_SELECT_PHOTOS_AND_VIDEOS_AT_SAME_TIME" = "একই সময়ে ফটো এবং ভিডিও নির্বাচন করা যাবে না।";
+
+/// 孟加拉语

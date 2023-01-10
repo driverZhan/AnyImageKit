@@ -1,0 +1,19 @@
+/* 
+  Editor.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/11/12.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"BRUSH" = "Cepillar";
+"CROP" = "Cultivo";
+"MOSAIC" = "Mosaic";
+"INPUT_TEXT" = "Texto de entrada";
+
+"FREE" = "Gratis";
+
+"DRAG_HERE_TO_REMOVE" = "Arrastra aquí para eliminar";
+"RELEASE_TO_REMOVE" = "Suelte para quitar";
+
+//西班牙语

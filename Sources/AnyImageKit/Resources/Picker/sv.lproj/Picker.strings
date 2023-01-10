@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/9/16.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"ORIGINAL_IMAGE" = "Originalbild";
+"SELECT_PHOTO" = "Välj foto";
+"UNSELECT_PHOTO" = "Avmarkera foto";
+"TAKE_PHOTO" = "Ta foto";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "Välj maximalt %zd foton";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "Välj maximalt %zd videor";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "Välj högst %zd foton eller videor";
+"DOWNLOADING_FROM_ICLOUD" = "Hämtar från iCloud";
+"FETCH_FAILED_PLEASE_RETRY" = "Hämtning misslyckades, försök igen";
+"A11Y_SWITCH_ALBUM_TIPS" = "Byt album, nuvarande album är %@";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "Kan inte hämta alla foton\nKlicka för att välja fler foton";
+
+// Asset Disable Check Rule
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "Längden på den valda videon bör vara mellan %d-%d sekunder.";
+"CANNOT_SELECT_PHOTOS_AND_VIDEOS_AT_SAME_TIME" = "Kan inte välja foton och videor samtidigt.";
+
+// 瑞典语

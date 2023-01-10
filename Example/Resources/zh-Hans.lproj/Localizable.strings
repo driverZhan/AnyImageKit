@@ -20,6 +20,7 @@
 "EditorOptions" = "编辑类型";
 "CaptureOptions" = "拍摄类型";
 "FullScreen" = "是否全屏";
+"CustomLanguage" = "自定义语言";
 
 // Editor
 "OpenEditor" = "打开编辑器";

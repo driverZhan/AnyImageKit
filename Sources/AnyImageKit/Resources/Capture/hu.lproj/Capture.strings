@@ -1,0 +1,15 @@
+/* 
+  Capture.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"SWITCH_TO_FRONT_CAMERA" = "Váltás elülső kamerára";
+"SWITCH_TO_BACK_CAMERA" = "Váltás hátsó kamerára";
+"TAP_FOR_PHOTO" = "Koppintson a fényképhez";
+"HOLD_FOR_VIDEO" = "Videó tartása";
+"HOLD_FOR_VIDEO_TAP_FOR_PHOTO" = "Videóhoz tartsd, fényképhez koppints";
+
+/// 匈牙利语

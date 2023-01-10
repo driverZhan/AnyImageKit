@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/9/16.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"ORIGINAL_IMAGE" = "Gambar asli";
+"SELECT_PHOTO" = "Pilih foto";
+"UNSELECT_PHOTO" = "Batalkan pilihan foto";
+"TAKE_PHOTO" = "Ambil foto";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "Pilih maksimum %zd foto";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "Pilih maksimum %zd video";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "Pilih maksimal %zd foto atau video";
+"DOWNLOADING_FROM_ICLOUD" = "Mengunduh dari iCloud";
+"FETCH_FAILED_PLEASE_RETRY" = "Pengambilan gagal, harap coba lagi";
+"A11Y_SWITCH_ALBUM_TIPS" = "Ganti album, album saat ini adalah %@";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "Tidak dapat mengambil semua foto\nKlik untuk memilih lebih banyak foto";
+
+// Aturan Pemeriksaan Penonaktifan Aset
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "Durasi video yang dipilih harus antara %d-%d detik.";
+"CANNOT_SELECT_PHOTOS_AND_VIDEOS_AT_SAME_TIME" = "Tidak dapat memilih foto dan video secara bersamaan.";
+
+/// 印尼语

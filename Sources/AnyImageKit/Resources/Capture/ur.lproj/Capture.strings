@@ -1,0 +1,15 @@
+/* 
+  Capture.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"SWITCH_TO_FRONT_CAMERA" = "سامنے والے کیمرے پر سوئچ کریں۔";
+"SWITCH_TO_BACK_CAMERA" = "بیک کیمرے پر سوئچ کریں۔";
+"TAP_FOR_PHOTO" = "تصویر کے لیے تھپتھپائیں۔";
+"HOLD_FOR_VIDEO" = "ویڈیو کے لیے پکڑو";
+"HOLD_FOR_VIDEO_TAP_FOR_PHOTO" = "ویڈیو کے لیے پکڑو، تصویر کے لیے تھپتھپائیں۔";
+
+//乌尔都语

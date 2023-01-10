@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"OK" = "Oke";
+"BACK" = "Kembali";
+"DONE" = "Selesai";
+"EDIT" = "Sunting";
+"ALERT" = "Peringatan";
+"CANCEL" = "Membatalkan";
+"PREVIEW" = "Pratinjau";
+"PHOTOS" = "Foto";
+"CAMERA" = "Kamera";
+"MICROPHONE" = "Mikropon";
+"SETTINGS" = "Pengaturan";
+
+"PHOTO" = "Foto";
+"VIDEO" = "Video";
+"LIVE_PHOTO" = "HIDUP";
+"LOADING" = "Memuat";
+
+"UNDO" = "Membuka";
+"PLAY" = "Bermain";
+"PAUSE" = "Berhenti sebentar";
+"RESET" = "Mengatur ulang";
+"DOWNLOADING" = "Mengunduh";
+
+"GO_TO_SETTINGS" = "Pergi ke pengaturan";
+"PERMISSION_IS_DISABLED" = "%@ dinonaktifkan";
+"NO_PHOTOS_PERMISSION_TIPS" = "Izinkan %@ untuk mengakses album Anda di \"Pengaturan > Privasi > Foto\"";
+"NO_CAMERA_PERMISSION_TIPS" = "Izinkan %@ untuk mengakses kamera Anda di \"Pengaturan > Privasi > Kamera\"";
+"NO_MICROPHONE_PERMISSION_TIPS" = "Izinkan %@ mengakses mikrofon Anda di \"Pengaturan > Privasi > Mikrofon\"";
+
+/// 印尼语

@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"OK" = "ХОРОШО";
+"BACK" = "Назад";
+"DONE" = "Готово";
+"EDIT" = "Редактировать";
+"ALERT" = "Предупреждение";
+"CANCEL" = "Отмена";
+"PREVIEW" = "Предварительный просмотр";
+"CAMERA" = "Фотографии";
+"КАМЕРА" = "Камера";
+"MICROPHONE" = "Микрофон";
+"SETTINGS" = "Настройки";
+
+"PHOTO" = "Фото";
+"VIDEO" = "Видео";
+"LIVE_PHOTO" = "ПРЯМОЙ ЭФИР";
+"LOADING" = "Загрузка";
+
+"UNDO" = "Отменить";
+"PLAY" = "Играть в";
+"PAUSE" = "Пауза";
+"RESET" = "Сброс";
+"DONWLOADING" = "Скачивание";
+
+"GO_TO_SETTINGS" = "Перейти к настройкам";
+"PERMISSION_IS_DISABLED" = "%@ отключен";
+"NO_PHOTOS_PERMISSION_TIPS" = "Разрешить %@ доступ к вашему альбому в \"Настройки > Конфиденциальность > Фото\"";
+"NO_CAMERA_PERMISSION_TIPS" = "Разрешите %@ доступ к вашей камере в \"Настройки > Конфиденциальность > Камера\"";
+"NO_MICROPHONE_PERMISSION_TIPS" = "Разрешите %@ доступ к вашему микрофону в \"Настройки > Конфиденциальность > Микрофон\"";
+
+//俄语

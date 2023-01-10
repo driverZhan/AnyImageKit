@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"OK" = "ٹھیک ہے";
+"BACK" = "پیچھے";
+"DONE" = "ہو گیا";
+"EDIT" = "ترمیم";
+"ALERT" = "الرٹ";
+"CANCEL" = "منسوخ کریں۔";
+"PREVIEW" = "پیش نظارہ";
+"PHOTOS" = "تصاویر";
+"CAMERA" = "کیمرہ";
+"MICROPHONE" = "مائیکروفون";
+"SETTINGS" = "ترتیبات";
+
+"PHOTO" = "تصویر";
+"VIDEO" = "ویڈیو";
+"LIVE_PHOTO" = "لائیو";
+"LOADING" = "لوڈ ہو رہا ہے۔";
+
+"UNDO" = "کالعدم";
+"PLAY" = "کھیلیں";
+"PAUSE" = "توقف";
+"RESET" = "دوبارہ ترتیب دیں۔";
+"DOWNLOADING" = "ڈاؤن لوڈ ہو رہا ہے۔";
+
+"GO_TO_SETTINGS" = "ترتیبات پر جائیں۔";
+"PERMISSION_IS_DISABLED" = "%@ غیر فعال ہے۔";
+"NO_PHOTOS_PERMISSION_TIPS" = "%@ کو \"ترتیبات > رازداری > تصاویر\" میں اپنے البم تک رسائی کی اجازت دیں";
+"NO_CAMERA_PERMISSION_TIPS" = "%@ کو \"ترتیبات > رازداری > کیمرہ\" میں اپنے کیمرے تک رسائی کی اجازت دیں";
+"NO_MICROPHONE_PERMISSION_TIPS" = "%@ کو \"ترتیبات > رازداری > مائیکروفون\" میں اپنے مائیکروفون تک رسائی کی اجازت دیں";
+
+//乌尔都语

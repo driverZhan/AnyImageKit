@@ -1,0 +1,15 @@
+/* 
+  Capture.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"SWITCH_TO_FRONT_CAMERA" = "Beralih ke kamera depan";
+"SWITCH_TO_BACK_CAMERA" = "Beralih ke kamera belakang";
+"TAP_FOR_PHOTO" = "Ketuk untuk foto";
+"HOLD_FOR_VIDEO" = "Tunggu untuk video";
+"HOLD_FOR_VIDEO_TAP_FOR_PHOTO" = "Tunggu untuk video, ketuk untuk foto";
+
+/// 印尼语

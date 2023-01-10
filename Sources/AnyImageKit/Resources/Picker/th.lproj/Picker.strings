@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/9/16.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"ORIGINAL_IMAGE" = "ภาพต้นฉบับ";
+"SELECT_PHOTO" = "เลือกรูปภาพ";
+"UNSELECT_PHOTO" = "ยกเลิกการเลือกรูปภาพ";
+"TAKE_PHOTO" = "ถ่ายภาพ";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "เลือกรูปภาพได้สูงสุด %zd รูป";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "เลือกวิดีโอได้สูงสุด %zd";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "เลือกรูปภาพหรือวิดีโอสูงสุด %zd รายการ";
+"DOWNLOADING_FROM_ICLOUD" = "กำลังดาวน์โหลดจาก iCloud";
+"FETCH_FAILED_PLEASE_RETRY" = "การดึงข้อมูลล้มเหลว โปรดลองอีกครั้ง";
+"A11Y_SWITCH_ALBUM_TIPS" = "สลับอัลบั้ม อัลบั้มปัจจุบันคือ %@";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "ไม่สามารถเรียกรูปภาพทั้งหมดได้\nคลิกเพื่อเลือกรูปภาพเพิ่มเติม";
+
+// กฎการตรวจสอบปิดการใช้งานสินทรัพย์
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "ระยะเวลาของวิดีโอที่เลือกควรอยู่ระหว่าง %d-%d วินาที";
+"CANNOT_SELECT_PHOTOS_AND_VIDEOS_AT_SAME_TIME" = "ไม่สามารถเลือกรูปภาพและวิดีโอพร้อมกัน";
+
+//泰语

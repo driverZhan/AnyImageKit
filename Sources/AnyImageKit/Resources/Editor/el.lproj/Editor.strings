@@ -1,0 +1,19 @@
+/* 
+  Editor.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/11/12.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"BRUSH" = "Βούρτσα";
+"CROP" = "Περικοπή";
+"MOSAIC" = "Mosaic";
+"INPUT_TEXT" = "Εισαγωγή κειμένου";
+
+"FREE" = "Δωρεάν";
+
+"DRAG_HERE_TO_REMOVE" = "Σύρετε εδώ για κατάργηση";
+"RELEASE_TO_REMOVE" = "Απελευθέρωση για αφαίρεση";
+
+// 希腊语

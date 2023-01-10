@@ -1,0 +1,16 @@
+/* 
+  Capture.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"SWITCH_TO_FRONT_CAMERA" = "Byt till frontkamera";
+"SWITCH_TO_BACK_CAMERA" = "Byt till bakre kamera";
+"TAP_FOR_PHOTO" = "Knacka för foto";
+"HOLD_FOR_VIDEO" = "Vänta för video";
+"HOLD_FOR_VIDEO_TAP_FOR_PHOTO" = "Vänta för video, tryck för foto";
+
+
+// 瑞典语

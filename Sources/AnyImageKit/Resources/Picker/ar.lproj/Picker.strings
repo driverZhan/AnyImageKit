@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/9/16.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"ORIGINAL_IMAGE" = "الصورة الأصلية";
+"SELECT_PHOTO" = "اختر الصور";
+"UNSELECT_PHOTO" = "إلغاء تحديد الصورة";
+"TAKE_PHOTO" = "تصوير";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "حدد ما لا يزيد عن %zd من الصور";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "حدد بحد أقصى %zd مقاطع فيديو";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "حدد بحد أقصى %zd من الصور أو مقاطع الفيديو";
+"DOWNLOADING_FROM_ICLOUD" = "التنزيل من iCloud";
+"FETCH_FAILED_PLEASE_RETRY" = "فشل الجلب ، يرجى إعادة المحاولة";
+"A11Y_SWITCH_ALBUM_TIPS" = "تبديل الألبوم ، الألبوم الحالي هو%@";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "لا يمكن إحضار كل الصور \ n انقر لتحديد المزيد من الصور";
+
+// Asset Disable Check Rule
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "يجب أن تتراوح مدة الفيديو المحدد بين%d-%d ثانية.";
+"CANNOT_SELECT_PHOTOS_AND_VIDEOS_AT_SAME_TIME" = "لا يمكن تحديد الصور ومقاطع الفيديو في نفس الوقت.";
+
+
+/// 阿拉伯语

@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/9/16.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"ORIGINAL_IMAGE" = "Asl rasm";
+"SELECT_PHOTO" = "Rasm tanlang";
+"UNSELECT_PHOTO" = "Fotosurat tanlashni bekor qilish";
+"TAKE_PHOTO" = "Suratga olish";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "Ko'pi bilan %zd ta rasm tanlang";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "Maksimal %zd videoni tanlang";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "Ko'pi bilan %zd ta rasm yoki videoni tanlang";
+"DOWNLOADING_FROM_ICLOUD" = "iCloud'dan yuklab olish";
+"FETCH_FAILED_PLEASE_RETRY" = "Olib bo‘lmadi, qayta urinib ko‘ring";
+"A11Y_SWITCH_ALBUM_TIPS" = "Albomni almashtirish, joriy albom %@";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "Barcha rasmlarni olib bo‘lmadi\nBoshqa suratlarni tanlash uchun bosing";
+
+// Aktivlarni o'chirishni tekshirish qoidasi
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "Tanlangan videoning davomiyligi %d-%d soniya oralig‘ida bo‘lishi kerak.";
+"CANNOT_SELECT_PHOTOS_AND_VIDEOS_AT_SAME_TIME" = "Bir vaqtning oʻzida surat va videolarni tanlab boʻlmaydi.";
+
+///乌兹别克语

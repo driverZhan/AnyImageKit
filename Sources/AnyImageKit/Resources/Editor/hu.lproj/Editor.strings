@@ -1,0 +1,19 @@
+/* 
+  Editor.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/11/12.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"BRUSH" = "Ecset";
+"CROP" = "Vágás";
+"MOSAIC" = "Mozaik";
+"INPUT_TEXT" = "Szövegbevitel";
+
+"FREE" = "Ingyenes";
+
+"DRAG_HERE_TO_REMOVE" = "Húzza ide az eltávolításhoz";
+"RELEASE_TO_REMOVE" = "Engedje el az eltávolításhoz";
+
+/// 匈牙利语

@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/9/16.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"ORIGINAL_IMAGE" = "تصویر اصلی";
+"SELECT_PHOTO" = "انتخاب عکس";
+"UNSELECT_PHOTO" = "لغو انتخاب عکس";
+"TAKE_PHOTO" = "عکس بگیرید";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "حداکثر %zd عکس را انتخاب کنید";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "حداکثر %zd ویدئو را انتخاب کنید";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "حداکثر %zd عکس یا ویدئو را انتخاب کنید";
+"DOWNLOADING_FROM_ICLOUD" = "دانلود از iCloud";
+"FETCH_FAILED_PLEASE_RETRY" = "واکشی انجام نشد، لطفا دوباره امتحان کنید";
+"A11Y_SWITCH_ALBUM_TIPS" = "آلبوم را تغییر دهید، آلبوم فعلی %@ است";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "همه عکس ها را نمی توان دریافت کرد\nبرای انتخاب عکس های بیشتر کلیک کنید";
+
+// Asset Disable Check Rule
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "مدت زمان ویدیوی انتخابی باید بین %d-%d ثانیه باشد.";
+"CANNOT_SELECT_PHOTOS_AND_VIDEOS_AT_SAME_TIME" = "نمی توان عکس ها و فیلم ها را همزمان انتخاب کرد.";
+
+//波斯语

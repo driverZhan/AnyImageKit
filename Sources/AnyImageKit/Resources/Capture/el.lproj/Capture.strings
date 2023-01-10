@@ -1,0 +1,15 @@
+/* 
+  Capture.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"SWITCH_TO_FRONT_CAMERA" = "Μετάβαση στην μπροστινή κάμερα";
+"SWITCH_TO_BACK_CAMERA" = "Εναλλαγή στην πίσω κάμερα";
+"TAP_FOR_PHOTO" = "Πατήστε για φωτογραφία";
+"HOLD_FOR_VIDEO" = "Κρατήστε το για βίντεο";
+"HOLD_FOR_VIDEO_TAP_FOR_PHOTO" = "Πατήστε για βίντεο, πατήστε για φωτογραφία";
+
+// 希腊语

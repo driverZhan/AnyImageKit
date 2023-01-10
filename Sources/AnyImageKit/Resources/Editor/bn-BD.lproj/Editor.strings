@@ -1,0 +1,19 @@
+/* 
+  Editor.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/11/12.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"BRUSH" = "ব্রাশ";
+"CROP" = "ফসল";
+"MOSAIC" = "মোজাইক";
+"INPUT_TEXT" = "ইনপুট পাঠ্য";
+
+"FREE" = "ফ্রি";
+
+"DRAG_HERE_TO_REMOVE" = "সরানোর জন্য এখানে টেনে আনুন";
+"RELEASE_TO_REMOVE" = "সরানোর জন্য মুক্তি";
+
+/// 孟加拉语

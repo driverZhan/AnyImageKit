@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"OK" = "D'ACCORD";
+"BACK" = "Arrière";
+"DONE" = "Fait";
+"EDIT" = "Éditer";
+"ALERT" = "Alerte";
+"CANCEL" = "Annuler";
+"PREVIEW" = "Aperçu";
+"PHOTOS" = "Photos";
+"CAMERA" = "Caméra";
+"MICROPHONE" = "Microphone";
+"SETTINGS" = "Réglages";
+
+"PHOTO" = "Photo";
+"VIDEO" = "Vidéo";
+"LIVE_PHOTO" = "HABITENT";
+"LOADING" = "Chargement";
+
+"UNDO" = "annuler";
+"PLAY" = "Jouer";
+"PAUSE" = "Pause";
+"RESET" = "Réinitialiser";
+"DOWNLOADING" = "Téléchargement";
+
+"GO_TO_SETTINGS" = "Aller aux paramètres";
+"PERMISSION_IS_DISABLED" = "%@ est désactivé";
+"NO_PHOTOS_PERMISSION_TIPS" = "Autorisez %@ à accéder à votre album dans \"Paramètres > Confidentialité > Photos\"";
+"NO_CAMERA_PERMISSION_TIPS" = "Autorisez %@ à accéder à votre caméra dans \"Paramètres > Confidentialité > Caméra\"";
+"NO_MICROPHONE_PERMISSION_TIPS" = "Autorisez %@ à accéder à votre microphone dans \"Paramètres > Confidentialité > Microphone\"";
+
+/// 法语

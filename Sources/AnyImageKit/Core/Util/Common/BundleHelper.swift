@@ -99,10 +99,14 @@ extension BundleHelper {
 extension BundleHelper {
     
     static func localizedString(key: String, module: Module) -> String {
+        if LanguageHelper.shared.customEnabled {
+            return custLocalizedString(key: key, value: nil, table: module.rawValue, bundle: bundle(for: module))
+        }
         return localizedString(key: key, value: nil, table: module.rawValue, bundle: bundle(for: module))
     }
     
     private static func localizedString(key: String, value: String?, table: String, bundle current: Bundle) -> String {
+        
         let result = current.localizedString(forKey: key, value: value, table: table)
         if result != key {
             return result
@@ -120,5 +124,35 @@ extension BundleHelper {
             }
             return Bundle.main.localizedString(forKey: key, value: value, table: nil)
         }
+    }
+    
+    private static func custLocalizedString(key: String, value: String?, table: String, bundle current: Bundle) -> String {
+        guard let fileName = LanguageHelper.shared.language?.fileName else {
+            return Bundle.main.localizedString(forKey: key, value: value, table: nil)
+        }
+        if let path = current.resourceURL?.absoluteString {
+            let urlPath = path + fileName
+            if let url = URL(string: urlPath) {
+                let bd = Bundle(url: url)
+                var newResult = bd?.localizedString(forKey: key, value: "", table: table)
+                if newResult == key {
+                    let coreBundle: Bundle
+                    if current != bundle(for: .core) {
+                        coreBundle = bundle(for: .core)
+                    } else {
+                        coreBundle = current
+                    }
+                    if let corePath1 = coreBundle.resourceURL?.absoluteString {
+                        let corePath = corePath1 + fileName
+                        if let corUrl = URL(string: corePath) {
+                            let coreBd = Bundle(url: corUrl)
+                            newResult = coreBd?.localizedString(forKey: key, value: nil, table: Module.core.rawValue)
+                        }
+                    }
+                }
+                return newResult ?? Bundle.main.localizedString(forKey: key, value: value, table: nil)
+            }
+        }
+        return Bundle.main.localizedString(forKey: key, value: value, table: nil)
     }
 }

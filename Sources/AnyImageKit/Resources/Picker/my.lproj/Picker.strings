@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/9/16.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"ORIGINAL_IMAGE" = "မူရင်းပုံ";
+"SELECT_PHOTO" = "ဓာတ်ပုံကို ရွေးပါ";
+"UNSELECT_PHOTO" = "ဓာတ်ပုံကို မရွေးချယ်ပါ";
+"TAKE_PHOTO" = "ဓာတ်ပုံရိုက်ပါ";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "အများဆုံး %zd ဓာတ်ပုံများကို ရွေးပါ";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "အများဆုံး %zd ဗီဒီယိုများကို ရွေးပါ";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "အများဆုံး %zd ဓာတ်ပုံ သို့မဟုတ် ဗီဒီယိုများကို ရွေးပါ";
+"DOWNLOADING_FROM_ICLOUD" = "iCloud မှ ဒေါင်းလုဒ်လုပ်နေသည်";
+"FETCH_FAILED_PLEASE_RETRY" = "ထုတ်ယူမှု မအောင်မြင်ပါ၊ ကျေးဇူးပြု၍ ထပ်စမ်းကြည့်ပါ";
+"A11Y_SWITCH_ALBUM_TIPS" = "အယ်လ်ဘမ်ပြောင်းပါ၊ လက်ရှိအယ်လ်ဘမ်သည် %@";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "ဓာတ်ပုံအားလုံးကို မရယူနိုင်ပါ\nနောက်ထပ် ဓာတ်ပုံများကို ရွေးချယ်ရန် နှိပ်ပါ";
+
+// Asset Disable Check Rule
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "ရွေးချယ်ထားသော ဗီဒီယို၏ ကြာချိန် %d-%d စက္ကန့်ကြား ဖြစ်သင့်သည်။";
+"CANNOT_SELECT_PHOTOS_AND_VIDEOS_AT_SAME_TIME" = "ဓာတ်ပုံနှင့် ဗီဒီယိုများကို တစ်ချိန်တည်းတွင် ရွေးချယ်၍မရပါ။";
+
+
+///缅甸语

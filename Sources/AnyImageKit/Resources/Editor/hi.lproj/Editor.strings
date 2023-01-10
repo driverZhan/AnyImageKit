@@ -1,0 +1,19 @@
+/* 
+  Editor.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/11/12.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"BRUSH" = "ब्रश";
+"CROP" = "फसल";
+"MOSAIC" = "मोज़ेक";
+"INPUT_TEXT" = "इनपुट टेक्स्ट";
+
+"FREE" = "मुफ़्त";
+
+"DRAG_HERE_TO_REMOVE" = "निकालने के लिए यहां खींचें";
+"RELEASE_TO_REMOVE" = "निकालने के लिए रिलीज़ करें";
+
+///印地语

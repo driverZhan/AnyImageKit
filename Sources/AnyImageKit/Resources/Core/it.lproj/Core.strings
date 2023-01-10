@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"OK" = "OK";
+"BACK" = "Indietro";
+"DONE" = "Fatto";
+"EDIT" = "Modificare";
+"ALERT" = "Mettere in guardia";
+"CANCEL" = "Annulla";
+"PREVIEW" = "Anteprima";
+"PHOTOS" = "Fotografie";
+"CAMERA" = "Telecamera";
+"MICROPHONE" = "Microfono";
+"SETTINGS" = "Impostazioni";
+
+"PHOTO" = "Foto";
+"VIDEO" = "video";
+"LIVE_PHOTO" = "ABITARE";
+"LOADING" = "Caricamento in corso";
+
+"UNDO" = "Annullare";
+"PLAY" = "Giocare a";
+"PAUSE" = "Pausa";
+"RESET" = "Ripristina";
+"DOWNLOADING" = "Download";
+
+"GO_TO_SETTINGS" = "Vai alle impostazioni";
+"PERMISSION_IS_DISABLED" = "%@ è disabilitato";
+"NO_PHOTOS_PERMISSION_TIPS" = "Consenti a %@ di accedere al tuo album in \"Impostazioni > Privacy > Foto\"";
+"NO_CAMERA_PERMISSION_TIPS" = "Consenti a %@ di accedere alla tua fotocamera in \"Impostazioni > Privacy > Fotocamera\"";
+"NO_MICROPHONE_PERMISSION_TIPS" = "Consenti a %@ di accedere al tuo microfono in \"Impostazioni > Privacy > Microfono\"";
+
+/// 意大利语

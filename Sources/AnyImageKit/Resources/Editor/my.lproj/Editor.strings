@@ -1,0 +1,19 @@
+/* 
+  Editor.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/11/12.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"Brush" = "စုတ်တံ";
+"CROP" = "သီးနှံ";
+"MOSAIC" = "Mosaic";
+"INPUT_TEXT" = "စာသားထည့်သွင်းရန်";
+
+"FREE" = "အခမဲ့";
+
+"DRAG_HERE_TO_REMOVE" = "ဖယ်ရှားရန် ဤနေရာကို ဆွဲယူပါ";
+"RELEASE_TO_REMOVE" = "ဖယ်ရှားရန် လွှတ်ပေးရန်";
+
+///缅甸语

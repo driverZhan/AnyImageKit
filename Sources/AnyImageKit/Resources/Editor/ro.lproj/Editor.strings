@@ -1,0 +1,19 @@
+/* 
+  Editor.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/11/12.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"BRUSH" = "Perie";
+"CROP" = "Decupare";
+"MOSAIC" = "Mozaic";
+"INPUT_TEXT" = "Introduceți text";
+
+"FREE" = "Gratuit";
+
+"DRAG_HERE_TO_REMOVE" = "Trageți aici pentru a elimina";
+"RELEASE_TO_REMOVE" = "Eliberați pentru a elimina";
+
+//罗马尼亚语

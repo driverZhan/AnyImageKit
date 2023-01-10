@@ -1,0 +1,19 @@
+/* 
+  Editor.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/11/12.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"BRUSH" = "ब्रश";
+"CROP" = "फसल";
+"MOSAIC" = "मोज़ेक";
+"INPUT_TEXT" = "इनपुट पाठ";
+
+"FREE" = "नि:शुल्क";
+
+"DRAG_HERE_TO_REMOVE" = "हटाउन यहाँ तान्नुहोस्";
+"RELEASE_TO_REMOVE" = "हटाउन जारी गर्नुहोस्";
+
+//尼泊尔语

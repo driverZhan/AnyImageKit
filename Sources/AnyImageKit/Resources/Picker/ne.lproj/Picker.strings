@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/9/16.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"ORIGINAL_IMAGE" = "मूल छवि";
+"SELECT_PHOTO" = "फोटो छान्नुहोस्";
+"UNSELECT_PHOTO" = "फोटो अचयन गर्नुहोस्";
+"TAKE_PHOTO" = "फोटो खिच्नुहोस्";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "अधिकतम %zd फोटोहरू चयन गर्नुहोस्";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "अधिकतम %zd भिडियोहरू चयन गर्नुहोस्";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "अधिकतम %zd फोटो वा भिडियोहरू चयन गर्नुहोस्";
+"DOWNLOADING_FROM_ICLOUD" = "iCloud बाट डाउनलोड गर्दै";
+"FETCH_FAILED_PLEASE_RETRY" = "फेच असफल भयो, कृपया पुन: प्रयास गर्नुहोस्";
+"A11Y_SWITCH_ALBUM_TIPS" = "एल्बम स्विच गर्नुहोस्, हालको एल्बम %@ हो";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "सबै फोटोहरू ल्याउन सकिँदैन\nथप फोटोहरू चयन गर्न क्लिक गर्नुहोस्";
+
+// Asset Disable Check Rule
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "चयन गरिएको भिडियोको अवधि %d-%d सेकेन्डको बीचमा हुनुपर्छ।";
+"CANNOT_SELECT_PHOTOS_AND_VIDEOS_AT_SAME_TIME" = "एकै समयमा फोटो र भिडियोहरू चयन गर्न सकिँदैन।";
+
+//尼泊尔语

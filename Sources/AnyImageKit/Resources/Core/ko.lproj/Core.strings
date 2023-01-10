@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"OK" = "확인";
+"BACK" = "뒤쪽에";
+"DONE" = "완료";
+"EDIT" = "편집하다";
+"ALERT" = "알리다";
+"CANCEL" = "취소";
+"PREVIEW" = "시사";
+"PHOTOS" = "사진";
+"CAMERA" = "카메라";
+"MICROPHONE" = "마이크로폰";
+"SETTINGS" = "설정";
+
+"PHOTO" = "사진";
+"VIDEO" = "동영상";
+"LIVE_PHOTO" = "라이브";
+"LOADING" = "로드 중";
+
+"UNDO" = "실행 취소";
+"PLAY" = "놀다";
+"PAUSE" = "정지시키다";
+"RESET" = "초기화";
+"DOWNLOADING" = "다운로드 중";
+
+"GO_TO_SETTINGS" = "설정으로 이동";
+"PERMISSION_IS_DISABLED" = "%@이(가) 비활성화되었습니다.";
+"NO_PHOTOS_PERMISSION_TIPS" = "\"설정 > 개인 정보 > 사진\"에서 %@이(가) 앨범에 접근하도록 허용합니다.";
+"NO_CAMERA_PERMISSION_TIPS" = "\"설정 > 개인 정보 보호 > 카메라\"에서 %@이(가) 카메라에 접근하도록 허용";
+"NO_MICROPHONE_PERMISSION_TIPS" = "\"설정 > 개인 정보 보호 > 마이크\"에서 %@이(가) 마이크에 접근하도록 허용";
+
+
+///  韩语

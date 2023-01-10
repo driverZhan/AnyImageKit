@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/9/16.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"ORIGINAL_IMAGE" = "मूल छवि";
+"SELECT_PHOTO" = "फ़ोटो चुनें";
+"UNSELECT_PHOTO" = "फ़ोटो अचयनित करें";
+"TAKE_PHOTO" = "फ़ोटो लें";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "अधिकतम %zd फ़ोटो चुनें";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "अधिकतम %zd वीडियो चुनें";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "अधिकतम %zd फ़ोटो या वीडियो चुनें";
+"DOWNLOADING_FROM_ICLOUD" = "iCloud से डाउनलोड हो रहा है";
+"FETCH_FAILED_PLEASE_RETRY" = "प्राप्त करना विफल रहा, कृपया पुन: प्रयास करें";
+"A11Y_SWITCH_ALBUM_TIPS" = "एल्बम बदलें, मौजूदा एल्बम %@ है";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "सभी फ़ोटो प्राप्त नहीं कर सकते\nअधिक फ़ोटो चुनने के लिए क्लिक करें";
+
+// एसेट डिसेबल चेक रूल
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "चयनित वीडियो की अवधि %d-%d सेकेंड के बीच होनी चाहिए।";
+"CANNOT_SELECT_PHOTOS_AND_VIDEOS_AT_SAME_TIME" = "एक ही समय में फ़ोटो और वीडियो का चयन नहीं कर सकते।";
+
+///印地语

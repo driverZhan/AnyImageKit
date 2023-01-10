@@ -1,0 +1,19 @@
+/* 
+  Editor.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/11/12.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"BRUSH" = "Brush";
+"CROP" = "Crop";
+"MOSAIC" = "Mozaika";
+"INPUT_TEXT" = "Matn kiritish";
+
+"FREE" = "Bepul";
+
+"DRAG_HERE_TO_REMOVE" = "O'chirish uchun bu yerga torting";
+"RELEASE_TO_REMOVE" = "O'chirish uchun qo'yib yuboring";
+
+///乌兹别克语

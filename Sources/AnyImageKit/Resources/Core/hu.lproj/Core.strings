@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"OK" = "OK";
+"BACK" = "Vissza";
+"DONE" = "Kész";
+"EDIT" = "Szerkesztés";
+"ALERT" = "Figyelmeztetés";
+"CANCEL" = "Mégse";
+"PREVIEW" = "Előnézet";
+"PHOTOS" = "Fotók";
+"CAMERA" = "Kamera";
+"MICROPHONE" = "Mikrofon";
+"SETTINGS" = "Beállítások";
+
+"PHOTO" = "Fotó";
+"VIDEO" = "Videó";
+"LIVE_PHOTO" = "ÉLŐ";
+"LOADING" = "Betöltés";
+
+"UNDO" = "Visszavonás";
+"PLAY" = "Lejátszás";
+"PAUSE" = "Szünet";
+"RESET" = "Visszaállítás";
+"DOWNLOADING" = "Letöltés";
+
+"GO_TO_SETTINGS" = "Ugrás a Beállításokhoz";
+"PERMISSION_IS_DISABLED" = "%@ le van tiltva";
+"NO_PHOTOS_PERMISSION_TIPS" = "Engedélyezze a %@ számára az album elérését a \"Beállítások > Adatvédelem > Fényképek\" menüben";
+"NO_CAMERA_PERMISSION_TIPS" = "Engedélyezze a(z) %@ számára, hogy hozzáférjen a kamerához a \"Beállítások > Adatvédelem > Kamera\" menüben";
+"NO_MICROPHONE_PERMISSION_TIPS" = "Engedélyezze a %@ számára a mikrofon elérését a \"Beállítások > Adatvédelem > Mikrofon\" menüben";
+
+
+/// 匈牙利语

@@ -1,0 +1,20 @@
+/* 
+  Editor.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/11/12.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"BRUSH" = "فرشاة";
+"CROP" = "ا & قتصاص";
+"MOSAIC" = "فسيفساء";
+"INPUT_TEXT" = "أدخل نصآ";
+
+"FREE" = "حر";
+
+"DRAG_HERE_TO_REMOVE" = "اسحب هنا للإزالة";
+"RELEASE_TO_REMOVE" = "حرر للإزالة";
+
+
+/// 阿拉伯语

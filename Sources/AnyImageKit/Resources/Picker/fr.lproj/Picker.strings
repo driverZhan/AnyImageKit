@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/9/16.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"ORIGINAL_IMAGE" = "Oorspronkelijke afbeelding";
+"SELECT_PHOTO" = "Selecteer foto";
+"UNSELECT_PHOTO" = "Selectie foto ongedaan maken";
+"TAKE_PHOTO" = "Foto maken";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "Selecteer maximaal %zd foto's";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "Selecteer maximaal %zd video's";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "Selecteer maximaal %zd foto's of video's";
+"DOWNLOADING_FROM_ICLOUD" = "Downloaden van iCloud";
+"FETCH_FAILED_PLEASE_RETRY" = "Ophalen mislukt, probeer het opnieuw";
+"A11Y_SWITCH_ALBUM_TIPS" = "Wissel van album, huidig album is %@";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "Kan niet alle foto's ophalen\nKlik om meer foto's te selecteren";
+
+// Controleregel activa uitschakelen
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "De duur van de geselecteerde video moet tussen %d-%d seconden liggen.";
+"CANNOT_SELECT_PHOTOS_AND_VIDEOS_AT_SAME_TIME" = "Kan niet tegelijkertijd foto's en video's selecteren.";
+
+
+/// 法语

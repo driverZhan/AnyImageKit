@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"OK" = "نعم";
+"BACK" = "خلف";
+"DONE" = "منتهي";
+"EDIT" = "تعديل";
+"ALERT" = "يُحذًِر";
+"CANCEL" = "يلغي";
+"PREVIEW" = "معاينة";
+"PHOTOS" = "الصور";
+"CAMERA" = "الة تصوير";
+"MICROPHONE" = "ميكروفون";
+"SETTINGS" = "إعدادات";
+
+"PHOTO" = "صورة";
+"VIDEO" = "فيديو";
+"LIVE_PHOTO" = "يعيش";
+"LOADING" = "تحميل";
+
+"UNDO" = "الغاء التحميل";
+"PLAY" = "يلعب";
+"PAUSE" = "وقفة";
+"RESET" = "إعادة ضبط";
+"DOWNLOADING" = "جارى التحميل";
+
+"GO_TO_SETTINGS" = "اذهب للاعدادات";
+"PERMISSION_IS_DISABLED" = "%@ is disabled";
+"NO_PHOTOS_PERMISSION_TIPS" = "Allow %@ to access your album in \"Settings > Privacy > Photos\"";
+"NO_CAMERA_PERMISSION_TIPS" = "Allow %@ to access your camera in \"Settings > Privacy > Camera\"";
+"NO_MICROPHONE_PERMISSION_TIPS" = "Allow %@ to access your microphone in \"Settings > Privacy > Microphone\"";
+
+/// 阿拉伯语
