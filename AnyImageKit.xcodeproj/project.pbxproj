@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		685FE074296EAB3900FA75A3 /* OCPickerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 685FE073296EAB3900FA75A3 /* OCPickerHelper.swift */; };
 		68B984732963C3790012D93A /* LanguageHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68B984722963C3790012D93A /* LanguageHelper.swift */; };
 		7100AADD261D513F00D92741 /* Picker+UIBlurEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7100AADC261D513F00D92741 /* Picker+UIBlurEffect.swift */; };
 		71034F1D273A6992007BBF60 /* Shadow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71034F1C273A6992007BBF60 /* Shadow.swift */; };
@@ -311,6 +312,7 @@
 		67A8466325AE30A60066BC51 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Picker.strings; sourceTree = "<group>"; };
 		67A8466425AE30A60066BC51 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Editor.strings; sourceTree = "<group>"; };
 		67A8466525AE30A70066BC51 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Capture.strings; sourceTree = "<group>"; };
+		685FE073296EAB3900FA75A3 /* OCPickerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OCPickerHelper.swift; sourceTree = "<group>"; };
 		689E6225296D5E7B006C694F /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Core.strings; sourceTree = "<group>"; };
 		689E6226296D5E7B006C694F /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Picker.strings; sourceTree = "<group>"; };
 		689E6227296D5E7B006C694F /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Editor.strings; sourceTree = "<group>"; };
@@ -733,6 +735,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		685FE072296EAAF500FA75A3 /* ObjectUtil */ = {
+			isa = PBXGroup;
+			children = (
+				685FE073296EAB3900FA75A3 /* OCPickerHelper.swift */,
+			);
+			path = ObjectUtil;
+			sourceTree = "<group>";
+		};
 		713C205725AD32D800BB0F66 /* Photo */ = {
 			isa = PBXGroup;
 			children = (
@@ -950,6 +960,7 @@
 		A016917F237A828500B8857B /* Picker */ = {
 			isa = PBXGroup;
 			children = (
+				685FE072296EAAF500FA75A3 /* ObjectUtil */,
 				A561239623B5E7B90071C3E8 /* PickerOptionsInfo.swift */,
 				A04F4145261C114A003D968E /* PickerOptionsConfigurable.swift */,
 				A03AC1322616B8220001F150 /* PickerTheme.swift */,
@@ -2002,6 +2013,7 @@
 				A0839B7423C44B1A00FF8FDE /* Permission.swift in Sources */,
 				A076999E23963F270006AC9B /* Capture.swift in Sources */,
 				A0950B802563C42B00213AD2 /* AssetDisableCheckRule.swift in Sources */,
+				685FE074296EAB3900FA75A3 /* OCPickerHelper.swift in Sources */,
 				A0C03C1D233208D8005F742C /* MenuDropDownPresentationController.swift in Sources */,
 				A50B211E237AA24300A894A9 /* PhotoEditorContentView+Crop.swift in Sources */,
 				A0E14CBD251B8FAB00A9FC32 /* Core+Bundle.swift in Sources */,
