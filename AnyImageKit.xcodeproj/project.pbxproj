@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		685FE074296EAB3900FA75A3 /* OCPickerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 685FE073296EAB3900FA75A3 /* OCPickerHelper.swift */; };
+		685FE0C0296FB30800FA75A3 /* OCPickerResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 685FE0BF296FB30700FA75A3 /* OCPickerResult.swift */; };
 		68B984732963C3790012D93A /* LanguageHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68B984722963C3790012D93A /* LanguageHelper.swift */; };
 		7100AADD261D513F00D92741 /* Picker+UIBlurEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7100AADC261D513F00D92741 /* Picker+UIBlurEffect.swift */; };
 		71034F1D273A6992007BBF60 /* Shadow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71034F1C273A6992007BBF60 /* Shadow.swift */; };
@@ -313,6 +314,7 @@
 		67A8466425AE30A60066BC51 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Editor.strings; sourceTree = "<group>"; };
 		67A8466525AE30A70066BC51 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Capture.strings; sourceTree = "<group>"; };
 		685FE073296EAB3900FA75A3 /* OCPickerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OCPickerHelper.swift; sourceTree = "<group>"; };
+		685FE0BF296FB30700FA75A3 /* OCPickerResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OCPickerResult.swift; sourceTree = "<group>"; };
 		689E6225296D5E7B006C694F /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Core.strings; sourceTree = "<group>"; };
 		689E6226296D5E7B006C694F /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Picker.strings; sourceTree = "<group>"; };
 		689E6227296D5E7B006C694F /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Editor.strings; sourceTree = "<group>"; };
@@ -739,6 +741,7 @@
 			isa = PBXGroup;
 			children = (
 				685FE073296EAB3900FA75A3 /* OCPickerHelper.swift */,
+				685FE0BF296FB30700FA75A3 /* OCPickerResult.swift */,
 			);
 			path = ObjectUtil;
 			sourceTree = "<group>";
@@ -1866,6 +1869,7 @@
 				713C207325AD32D800BB0F66 /* PhotoEditorCropContext.swift in Sources */,
 				A029D04F2330856C00BC6720 /* Album.swift in Sources */,
 				A5DF1E89237AA32C00E3A32E /* Editor+UIBezierPath.swift in Sources */,
+				685FE0C0296FB30800FA75A3 /* OCPickerResult.swift in Sources */,
 				A5347D2423A9FC6300C93874 /* ExportTool.swift in Sources */,
 				A0147E0423C45A200071E9D5 /* Permission+Camera.swift in Sources */,
 				A08DF7C523B3326C002B92EE /* CaptureToolView.swift in Sources */,

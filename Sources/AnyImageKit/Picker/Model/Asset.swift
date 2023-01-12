@@ -9,7 +9,7 @@
 import UIKit
 import Photos
 
-public class Asset: IdentifiableResource {
+open class Asset: NSObject, IdentifiableResource {
     /// 对应的 PHAsset
     public let phAsset: PHAsset
     /// 媒体类型
@@ -68,15 +68,19 @@ extension Asset {
         return idx == Asset.cameraItemIdx
     }
     
+    open override var description: String {
+        return "<Asset> \(identifier) mediaType=\(mediaType) image=\(image)"
+    }
+    
     static let cameraItemIdx: Int = -1
 }
 
-extension Asset: CustomStringConvertible {
-    
-    public var description: String {
-        return "<Asset> \(identifier) mediaType=\(mediaType) image=\(image)"
-    }
-}
+//extension Asset: CustomStringConvertible {
+//
+//    public var description: String {
+//        return "<Asset> \(identifier) mediaType=\(mediaType) image=\(image)"
+//    }
+//}
 
 // MARK: - State
 extension Asset {

@@ -145,7 +145,7 @@ extension PickerSelectOption {
 }
 
 // MARK: - Album Options
-public struct PickerAlbumOption: OptionSet {
+public struct PickerAlbumOption: OptionSet, @unchecked Sendable {
     
     /// Smart Album, managed by system
     public static let smart = PickerAlbumOption(rawValue: 1 << 0)

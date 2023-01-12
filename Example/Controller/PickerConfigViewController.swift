@@ -21,6 +21,8 @@ final class PickerConfigViewController: UITableViewController {
         LanguageHelper.shared.setLanguage("ja")
         setupNavigation()
         setupView()
+        let tx = UITextView()
+        tx.dataDetectorTypes = .address
     }
     
     private func setupNavigation() {
