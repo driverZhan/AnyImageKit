@@ -25,8 +25,7 @@ import Foundation
     func imagePicker(_ picker: ImagePickerController, didFinishPicking result: OCPickerResult)
 }
 
-@available(iOS 2.0, *)
-@MainActor class OCPickerHelper: NSObject {
+open class OCPickerHelper: NSObject {
     @objc open weak var pickerDelegate: OCPickerDelegate?
     
     private var options = PickerOptionsInfo()
