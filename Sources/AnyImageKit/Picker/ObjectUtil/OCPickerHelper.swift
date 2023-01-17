@@ -19,12 +19,10 @@ import UIKit
 open class OCPickerHelper: NSObject {
     @objc open weak var pickerDelegate: OCPickerDelegate?
     
-    @objc open var option: OCPickerOptions = OCPickerOptions()
+    @objc open var config: OCPickerOptions = OCPickerOptions()
     
-    @objc open var isFullScreen: Bool = true
-    
-    @objc func showPicker(_ ctl: UIViewController,_ options: OCPickerOptions) {
-        let controller = ImagePickerController(options: options.options, delegate: self)
+    @objc func showPicker(_ ctl: UIViewController,_ isFullScreen: Bool = true) {
+        let controller = ImagePickerController(options: config.options, delegate: self)
         controller.trackDelegate = self
         if #available(iOS 13.0, *) {
             controller.modalPresentationStyle = isFullScreen ? .fullScreen : .automatic
