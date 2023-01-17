@@ -32,7 +32,7 @@ import Foundation
 }
 
 
-class OCPickerHelper: NSObject {
+open class OCPickerHelper: NSObject {
     @objc open weak var pickerDelegate: OCPickerDelegate?
     
     private var options = PickerOptionsInfo()
