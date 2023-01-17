@@ -21,12 +21,25 @@ open class OCPickerHelper: NSObject {
     
     @objc open var config: OCPickerOptions = OCPickerOptions()
     
-    @objc open func showPicker(_ ctl: UIViewController,_ isFullScreen: Bool = true) {
+    @objc open func showPicker(controller ctl: UIViewController,fullScreen isFullScreen: Bool = true) {
         let controller = ImagePickerController(options: config.options, delegate: self)
         controller.trackDelegate = self
         if #available(iOS 13.0, *) {
             controller.modalPresentationStyle = isFullScreen ? .fullScreen : .automatic
         }
+        ctl.present(controller, animated: true, completion: nil)
+    }
+    
+    @objc open func showAvatarPicker(controller ctl: UIViewController) {
+        var options = PickerOptionsInfo()
+        options.selectLimit = 1
+        options.selectionTapAction = .openEditor
+        options.saveEditedAsset = false
+        options.editorOptions = [.photo]
+        options.editorPhotoOptions.toolOptions = [.crop]
+        options.editorPhotoOptions.cropOptions = [.custom(w: 1, h: 1)]
+        let controller = ImagePickerController(options: options, delegate: self)
+        controller.modalPresentationStyle = .fullScreen
         ctl.present(controller, animated: true, completion: nil)
     }
     
