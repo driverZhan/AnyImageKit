@@ -231,4 +231,14 @@ open class OCPickerOptions: NSObject {
     public override init() {
         options.selectionTapAction = .quickPick
     }
+    
+    @objc func setCustomLanguage(_ enabled: Bool = false, _ language: AnyLanguage = .english) {
+        LanguageHelper.shared.customEnabled = enabled
+        LanguageHelper.shared.language = language
+    }
+    
+    @objc func setCustomLanguageFileName(_ enabled: Bool = false, _ fileName: NSString = "en") {
+        LanguageHelper.shared.customEnabled = enabled
+        LanguageHelper.shared.setLanguage(fileName as String)
+    }
 }

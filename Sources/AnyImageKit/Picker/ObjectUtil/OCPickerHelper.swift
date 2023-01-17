@@ -37,10 +37,13 @@ open class OCPickerHelper: NSObject {
 extension OCPickerHelper: ImagePickerControllerDelegate {
     public func imagePickerDidCancel(_ picker: ImagePickerController) {
         picker.dismiss(animated: true, completion: nil)
+        self.pickerDelegate?.imagePickerDidCancel(picker)
     }
     
     public func imagePicker(_ picker: ImagePickerController, didFinishPicking result: PickerResult) {
         picker.dismiss(animated: true, completion: nil)
+        let ocResult = OCPickerResult(assets: result.assets, useOriginalImage: result.useOriginalImage)
+        self.pickerDelegate?.imagePicker(picker, didFinishPicking: ocResult)
     }
 }
 

@@ -123,7 +123,7 @@ open class LanguageHelper {
     
 }
 
-public enum AnyLanguage : Equatable, CaseIterable{
+@objc public enum AnyLanguage : NSInteger, Equatable, CaseIterable{
     /// 中文
     case chinese
     /// 英文
