@@ -21,7 +21,7 @@ open class OCPickerHelper: NSObject {
     
     @objc open var config: OCPickerOptions = OCPickerOptions()
     
-    @objc func showPicker(_ ctl: UIViewController,_ isFullScreen: Bool = true) {
+    @objc open func showPicker(_ ctl: UIViewController,_ isFullScreen: Bool = true) {
         let controller = ImagePickerController(options: config.options, delegate: self)
         controller.trackDelegate = self
         if #available(iOS 13.0, *) {
